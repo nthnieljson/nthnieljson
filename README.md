@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Niel, a computer science student currently studying on Bandung Institute of Technology, intrested in being a backend developer.
 
-### 🌱 Skills and tools : Express JS, NodeJS, React, Socket.io, MongoDB, MySQL, Python, C++, Javascript, HTML, CSS
+### 🌱 Skills and tools : Express JS, NodeJS, React, Socket.io, MongoDB, MySQL, Python, Javascript, HTML, CSS
 
 
 
