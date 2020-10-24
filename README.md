@@ -2,6 +2,7 @@
 
 ### 🌱 Skills and tools : Express JS, NodeJS, React, Socket.io, MongoDB, MySQL, Python, Javascript, HTML, CSS, Java, C, Django
 
+### 💬 Linkedin : https://www.linkedin.com/in/nathaniel-jason-6a17711ab/
 
 
 <!--
