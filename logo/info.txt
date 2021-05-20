@@ -1,1 +1,4 @@
 height logo tech stack = 28 px
+font = Alegreya Sans Bold
+font size = 15 px
+
