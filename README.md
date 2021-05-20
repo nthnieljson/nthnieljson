@@ -3,11 +3,11 @@
 
 ![Nathaniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=nthnieljson&show_icons=true&theme=radical&count_private=true)
 
-## :computer: Experiences
+# :computer: Experiences
 
 
 
-## :gear: Tech Stack 
+# :gear: Tech Stack 
 <p>
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
@@ -36,5 +36,5 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
 
-## 💬 Contact Me
+# 💬 Contact Me
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/nathanieljason/"/>](https://www.linkedin.com/in/nathanieljason/)
