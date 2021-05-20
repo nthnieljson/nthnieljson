@@ -8,7 +8,7 @@
 ##### Golang, Echo, Express JS, NodeJS, ReactJS, Socket.io, MongoDB, MySQL, Python, Javascript, HTML, CSS, Java, C, C++, Django, Flask, Git, Firebase
 
 ### 💬 Contact me
-<img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
 
 
