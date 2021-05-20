@@ -7,12 +7,14 @@
 ### 🌱 Tech stack 
 ##### Golang, Echo, Express JS, NodeJS, ReactJS, Socket.io, MongoDB, MySQL, Python, Javascript, HTML, CSS, Java, C, C++, Django, Flask, Git, Firebase
 
-### 💬 Linkedin : https://www.linkedin.com/in/nathaniel-jason-6a17711ab/
+### 💬 Contact me
+<img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />
+
 
 
 <!--
 **nthnieljson/nthnieljson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+https://www.linkedin.com/in/nathaniel-jason-6a17711ab/
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
