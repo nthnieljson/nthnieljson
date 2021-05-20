@@ -4,7 +4,8 @@
 ![Nathaniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=nthnieljson&show_icons=true&theme=radical)
 
 
-### 🌱 Skills and tools : Express JS, NodeJS, React, Socket.io, MongoDB, MySQL, Python, Javascript, HTML, CSS, Java, C, Django
+### 🌱 Tech stack 
+##### Golang, Echo, Express JS, NodeJS, ReactJS, Socket.io, MongoDB, MySQL, Python, Javascript, HTML, CSS, Java, C, C++, Django, Flask
 
 ### 💬 Linkedin : https://www.linkedin.com/in/nathaniel-jason-6a17711ab/
 
