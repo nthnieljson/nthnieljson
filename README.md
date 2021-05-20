@@ -6,7 +6,7 @@
 # :computer: Experiences
 | Roles | Type | Company/Institution | Duration |
 | --- | --- | --- | --- |
-| Backend Developer | Internship | [Tanihub Group(Tanifund)](https://tanihub.com/) | May 2021 - Present |
+| Backend Developer | Internship | [Tanihub Group (Tanifund)](https://tanihub.com/) | May 2021 - Present |
 | Software Engineer | Part-time | [Internnet Indonesia](http://internnetindonesia.com/) | Mar 2021 - Present |
 | Backend Developer | Internship | [Bukit Vista](https://www.bukitvista.com/) | Dec 2020 - Mar 2021 |
 | Frontend Developer | Part-time | [Arkavidia 7.0](https://www.arkavidia.id/) | Sep 2020 - Mar 2021 |
