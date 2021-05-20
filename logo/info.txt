@@ -2,3 +2,4 @@ height logo tech stack = 28 px
 font = Alegreya Sans Bold
 font size = 15 px
 
+https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b
