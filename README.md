@@ -5,7 +5,7 @@
 
 
 ### 🌱 Tech stack 
-##### Golang, Echo, Express JS, NodeJS, ReactJS, Socket.io, MongoDB, MySQL, Python, Javascript, HTML, CSS, Java, C, C++, Django, Flask
+##### Golang, Echo, Express JS, NodeJS, ReactJS, Socket.io, MongoDB, MySQL, Python, Javascript, HTML, CSS, Java, C, C++, Django, Flask, Git, Firebase
 
 ### 💬 Linkedin : https://www.linkedin.com/in/nathaniel-jason-6a17711ab/
 
