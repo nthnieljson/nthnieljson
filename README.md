@@ -1,4 +1,4 @@
-## 👋 Hi there ! 
+# 👋 Hi there ! 
 ##### I'm Nathaniel, a computer science student currently studying on Bandung Institute of Technology, intrested in being a fullstack developer and datascientist.
 
 ![Nathaniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=nthnieljson&show_icons=true&theme=radical&count_private=true)
