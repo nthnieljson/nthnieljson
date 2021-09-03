@@ -6,7 +6,8 @@
 # :computer: Experiences
 | Roles | Type | Company/Institution | Duration |
 | --- | --- | --- | --- |
-| Backend Developer | Internship | [TaniHub Group (TaniFund)](https://tanihub.com/) | May 2021 - Present |
+| Software Engineer | Internship | [Gojek](https://www.gojek.io/) | Aug 2021 - Present|
+| Backend Engineer | Internship | [TaniHub Group (TaniFund)](https://tanihub.com/) | May 2021 - Aug 2021 |
 | Software Engineer | Part-time | [Internnet Indonesia](http://internnetindonesia.com/) | Mar 2021 - Present |
 | Backend Developer | Internship | [Bukit Vista](https://www.bukitvista.com/) | Dec 2020 - Mar 2021 |
 | Frontend Developer | Part-time | [Arkavidia 7.0](https://www.arkavidia.id/) | Sep 2020 - Mar 2021 |
