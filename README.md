@@ -6,7 +6,7 @@
 # :computer: Experiences
 | Roles | Type | Company/Institution | Duration |
 | --- | --- | --- | --- |
-| Software Engineer | Internship | [Google Summer of Code]([https://www.gojek.io/](https://summerofcode.withgoogle.com/programs/2022/projects/rmHL0Mcl)) | May 2022 - Present|
+| Software Engineer | Internship | [Google Summer of Code](https://summerofcode.withgoogle.com/programs/2022/projects/rmHL0Mcl) | May 2022 - Present|
 | Software Engineer | Internship | [Gojek](https://www.gojek.io/) | Aug 2021 - Present|
 | Backend Engineer | Internship | [TaniHub Group (TaniFund)](https://tanihub.com/) | May 2021 - Aug 2021 |
 | Software Engineer | Part-time | [Internnet Indonesia](http://internnetindonesia.com/) | Mar 2021 - Present |
